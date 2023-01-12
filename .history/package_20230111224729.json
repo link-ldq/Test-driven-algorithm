@@ -1,0 +1,25 @@
+{
+  "name": "test-driven-algorithm",
+  "version": "1.0.0",
+  "description": "TDA Test-driven-algorithm 测试驱动算法, 通过编写单元测试并且学习数据结构与算法, 并将刷题融入其中.",
+  // "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/link-ldq/Test-driven-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/link-ldq/Test-driven-algorithm/issues"
+  },
+  "homepage": "https://github.com/link-ldq/Test-driven-algorithm#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
