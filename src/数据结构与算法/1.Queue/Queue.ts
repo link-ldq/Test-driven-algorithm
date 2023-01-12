@@ -10,7 +10,7 @@ export class Queue {
   enqueue(value: any): void {
     this.queue.push(value)
   }
-  dequeue(): void {
+  dequeue() {
     return this.queue.shift()
   }
   front(): void {
